@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Brand=Mastercard, Style=Inverted.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
